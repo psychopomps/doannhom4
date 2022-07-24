@@ -21,8 +21,8 @@
         <nav>
             <ul class="flex a-center">
                 <li class="active"><a href="trangchu.php">HOME</a></li>
-                <li>About</li>
-                <li>Contact</li>
+                <li class="active"><a href="">About</a></li>
+                <li class="active"><a href="">Contact</a></li>
             </ul>
         </nav>
     </div>
